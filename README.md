@@ -56,15 +56,9 @@
 
 ### 5. Pattern: Cyclic Sort
 
-1. Introduction [emre.me](https://emre.me/coding-patterns/cyclic-sort/)
-2. Cyclic Sort (easy) [Geeksforgeeks](https://www.geeksforgeeks.org/sort-an-array-which-contain-1-to-n-values-in-on-using-cycle-sort/)
-3. Find the Missing Number (easy) [Leetcode](https://leetcode.com/problems/missing-number/)
-4. Find all Missing Numbers (easy) [Leetcode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-5. Find the Duplicate Number (easy) [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/)
-6. Find all Duplicate Numbers (easy) [Leetcode](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-7. Problem Challenge 1: Find the Corrupt Pair (easy) [TheCodingSimplified](https://thecodingsimplified.com/find-currupt-pair/)
-8. Problem Challenge 2: Find the Smallest Missing Positive Number (medium) [Leetcode](https://leetcode.com/problems/first-missing-positive/)
-9. Problem Challenge 3: Find the First K Missing Positive Numbers (hard) [TheCodingSimplified](https://thecodingsimplified.com/find-the-first-k-missing-positive-number/)
+1. Problem Challenge 1: Find the Corrupt Pair (easy) [TheCodingSimplified](https://thecodingsimplified.com/find-currupt-pair/)
+2. Problem Challenge 2: Find the Smallest Missing Positive Number (medium) [Leetcode](https://leetcode.com/problems/first-missing-positive/)
+3. Problem Challenge 3: Find the First K Missing Positive Numbers (hard) [TheCodingSimplified](https://thecodingsimplified.com/find-the-first-k-missing-positive-number/)
 
 ### 6. Pattern: In-place Reversal of a LinkedList
 
