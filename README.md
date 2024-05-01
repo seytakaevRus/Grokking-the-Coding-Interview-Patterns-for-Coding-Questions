@@ -4,7 +4,7 @@
 
 ### 1. Pattern: Two Pointers
 
-3. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) [LeetCode](https://leetcode.com/problems/duplicate-zeros/)
+3. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 4. Squaring a Sorted Array (easy) [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array/)
 5. Triplet Sum to Zero (medium) [LeetCode](https://leetcode.com/problems/3sum/)
 6. Triplet Sum Close to Target (medium) [LeetCode](https://leetcode.com/problems/3sum-closest/)
@@ -25,6 +25,7 @@
 6. Problem Challenge 1: Palindrome LinkedList (medium) [Leetcode](https://leetcode.com/problems/palindrome-linked-list/)
 7. Problem Challenge 2: Rearrange a LinkedList (medium) [Leetcode](https://leetcode.com/problems/reorder-list/)
 8. Problem Challenge 3: Cycle in a Circular Array (hard) [Leetcode](https://leetcode.com/problems/circular-array-loop/)
+9. [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)
 
 ### 3. Pattern: Sliding Window
 
