@@ -5,7 +5,7 @@
 ### 1. Pattern: Two Pointers
 1. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (Linked List)
 2. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) (Linked List)
-3. Dutch National Flag Problem (medium) [CoderByte](https://coderbyte.com/algorithm/dutch-national-flag-sorting-problem)
+3. Dutch National Flag Problem (medium) [GeeksForGeeks](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/)
 4. Comparing Strings containing Backspaces (medium) [Leetcode](https://leetcode.com/problems/backspace-string-compare/) (Stack)
 5. Minimum Window Sort (medium) [Leetcode](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) (Stack, Greedy)
 6. Minimum length subarray of an unsorted array sorting which results in complete sorted array [Ideserve](https://www.ideserve.co.in/learn/minimum-length-subarray-sorting-which-results-in-sorted-array)
