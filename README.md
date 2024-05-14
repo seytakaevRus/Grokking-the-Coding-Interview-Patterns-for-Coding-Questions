@@ -4,7 +4,7 @@
 
 ### 1. Pattern: Two Pointers
 1. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (Linked List)
-2. Remove Duplicates (easy) LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) (Linked List)
+2. Remove Duplicates (easy) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) (Linked List)
 3. Subarrays with Product Less than a Target (medium) [LeetCode](https://leetcode.com/problems/subarray-product-less-than-k/)
 4. Dutch National Flag Problem (medium) [CoderByte](https://coderbyte.com/algorithm/dutch-national-flag-sorting-problem)
 5. Problem Challenge 2: Comparing Strings containing Backspaces (medium) [Leetcode](https://leetcode.com/problems/backspace-string-compare/)
